@@ -1,3 +1,2 @@
-# Python_Semseter_5
-update-2
-3
+# College Coursework
+A central repository for tracking lab codes and assignmensts for different semesters.
